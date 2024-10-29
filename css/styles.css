@@ -1,0 +1,162 @@
+body {
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #3E4E56;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 3px solid #D3D3D3;
+}
+
+header h1 {
+    color: #F7F7F7;
+    margin: 0;
+    font-style: italic;
+}
+
+header a {
+    color: #F7F7F7;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 3rem;
+    max-width: 600px; /* Reduced max-width for better form alignment */
+    margin: auto;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+form {
+    margin-bottom: 2rem;
+    padding: 1.5rem; /* Increased padding for a more balanced look */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 1.5rem;
+    padding: 0.8rem;
+    width: calc(100% - 1rem); /* Reduce width slightly to prevent overflow */
+    font-family: 'Times New Roman', serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensure proper box sizing */
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+input:focus, textarea:focus {
+    border-color: #3E4E56;
+    outline: none;
+    box-shadow: 0 0 5px rgba(62, 78, 86, 0.3);
+}
+
+button {
+    padding: 0.7rem 1.5rem;
+    background-color: #3E4E56;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #2D3B42;
+}
+
+#word-list, #edit-list {
+    margin-top: 2rem;
+}
+
+.word-entry {
+    padding: 1.5rem;
+    border-bottom: 1px solid #D3D3D3;
+    background-color: #FAFAFA;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.word-entry h3 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.word-entry p {
+    margin: 0.3rem 0;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.edit-btn, .delete-btn {
+    margin-right: 1.5rem;
+    cursor: pointer;
+    color: #0056b3;
+    text-decoration: underline;
+    font-size: 0.95rem;
+}
+
+.edit-btn:hover, .delete-btn:hover {
+    color: #003d82;
+}
+
+/* Dictionary-styled list */
+.word-entry {
+    font-family: 'Times New Roman', serif;
+    background-color: #F8F8F8;
+    padding: 1rem 1.5rem;
+    border-left: 5px solid #3E4E56;
+}
+
+.word-entry h3 {
+    font-style: italic;
+    color: #3E4E56;
+}
+
+.word-entry p {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+    text-indent: -1rem;
+}
+
+/* Overall improved spacing and typography */
+main, header, form {
+    margin-bottom: 2rem;
+}
+/* Add styles for the update form to make it lower and separate from the content above */
+.update-form {
+    margin-top: 1rem;  /* Add some margin above the form to push it lower */
+    padding: 1rem;     /* Add some padding to create space inside the form */
+    background-color: #f9f9f9;  /* Light background to differentiate the update section */
+    border: 1px solid #ccc;     /* Add a border for visual separation */
+    border-radius: 5px;         /* Smooth out the edges */
+}
+
+.update-form input {
+    display: block;
+    margin-bottom: 1rem;  /* Add margin below each input to create spacing */
+    padding: 0.5rem;       /* Add padding inside the inputs for readability */
+    width: 95%;            /* Adjust width to ensure it fits well */
+}
+
+.update-form button {
+    margin-right: 0.5rem;  /* Space between the buttons */
+    padding: 0.5rem 1rem;  /* Add padding to make buttons bigger and easier to click */
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
