@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Serve static files from the main directory (including HTML, CSS, and JS)
-app.use(express.static(path.join(__dirname, '../'))); // Adjust this based on your directory structure
+app.use(express.static(path.join(__dirname, '../')));
 
 // Load words from words.json
 function loadWords() {
@@ -30,6 +30,7 @@ app.get('/', (req, res) => {
 
 // GET all words
 app.get('/words', (req, res) => {
+    console.log('GET /words endpoint called');
     const words = loadWords();
     res.json(words);
 });

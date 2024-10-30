@@ -10,6 +10,7 @@ async function loadWords() {
             throw new Error('Failed to load words');
         }
         const words = await response.json();
+        console.log('Fetched words:', words);
         displayWords(words);
     } catch (error) {
         console.error('Error:', error);
@@ -26,9 +27,9 @@ function displayWords(words) {
         wordItem.innerHTML = `
             <div class="word-item">
                 <h3>${word.word}</h3>
-                <p>Meaning: ${word.meaning}</p>
-                <button onclick="showUpdateForm('${word.word}', '${word.meaning}', this)">Update</button>
-                <button onclick="deleteWord('${word.word}')">Delete</button>
+                <p>Significado: ${word.meaning}</p>
+                <button onclick="showUpdateForm('${word.word}', '${word.meaning}', this)">Actualizar</button>
+                <button onclick="deleteWord('${word.word}')">Borrar</button>
             </div>
         `;
         wordList.appendChild(wordItem);
@@ -73,8 +74,8 @@ function showUpdateForm(originalWord, originalMeaning, buttonElement) {
         <div id="update-form" class="update-form">
             <input type="text" id="update-word" value="${originalWord}" placeholder="Update word">
             <input type="text" id="update-meaning" value="${originalMeaning}" placeholder="Update meaning">
-            <button onclick="submitUpdate('${originalWord}')">Submit Update</button>
-            <button onclick="cancelUpdate()">Cancel</button>
+            <button onclick="submitUpdate('${originalWord}')">Actualizar</button>
+            <button onclick="cancelUpdate()">Cancelar</button>
         </div>
     `;
 
@@ -106,14 +107,14 @@ async function submitUpdate(originalWord) {
                 body: JSON.stringify({ word: newWord, meaning: newMeaning }),
             });
             if (!response.ok) {
-                throw new Error('Failed to update word');
+                throw new Error('Hubo un error actualizando la palabra');
             }
-            alert('Word updated successfully!');
+            alert('La palabra ha sido actualizada!');
             loadWords(); // Refresh the word list automatically
             cancelUpdate(); // Remove the update form
         } catch (error) {
-            console.error('Error updating word:', error);
-            alert('Error updating word.');
+            console.error('Error Actualizando la palabra:', error);
+            alert('Hubo un error actualizando la palabra');
         }
     }
 }
@@ -133,12 +134,12 @@ async function deleteWord(word) {
             method: 'DELETE',
         });
         if (!response.ok) {
-            throw new Error('Failed to delete word');
+            throw new Error('Hubo un fallo al borrar la palabra');
         }
-        alert('Word deleted successfully!');
+        alert('La palabra ha sido borrada!');
         loadWords(); // Refresh the word list automatically
     } catch (error) {
         console.error('Error:', error);
-        alert('Error deleting word.');
+        alert('Hubo un error borrando la palabra.');
     }
 }
