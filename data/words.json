@@ -1,5 +1,1641 @@
 [
   {
+    "word": "Accesión",
+    "meaning": "Derecho que nos da la propiedad de nuestras cosas sobre los aumentos y beneficios que reciben las mismas, ya sea por obra de la naturaleza o por industrias y trabajos del hombre."
+  },
+  {
+    "word": "Aforar",
+    "meaning": "Medir o calcular la capacidad de un recipiente, depósito, lago, laguna, presa, o medir el caudal de una corriente o tubo de agua indicando la cantidad de líquido que pasa por segundo."
+  },
+  {
+    "word": "Agrarista",
+    "meaning": "Campesino que se acoge a los beneficios del reparto agrario. Persona partidaria de la redistribución de tierra."
+  },
+  {
+    "word": "Aldea",
+    "meaning": "Lugar de escaso vecindario, que no tiene existencia propia y separada, civil o judicialmente; sino que depende de un barrio o municipio."
+  },
+  {
+    "word": "Alhóndiga",
+    "meaning": "Almacenes establecidos en las ciudades o villas para que en ellos depositen los labradores sus mercancías, principalmente trigo, cebada o harina a fin de regular el precio e impedir el encarecimiento y la especulación."
+  },
+  {
+    "word": "Alumbrar",
+    "meaning": "Descubrir aguas subterráneas y sacarlas a la superficie."
+  },
+
+  {
+    "word": "Aparcería",
+    "meaning": "Sistema de explotación agrícola con base en un contrato entre el dueño de la tierra y el campesino que la trabaja. Este último toma el nombre de aparcero y se compromete a pagar al propietario, en concepto de arrendamiento, una parte de los productos de la explotación."
+  },
+  {
+    "word": "Apeo",
+    "meaning": "Deslinde y demarcación de algunos terrenos o heredades, instrumento jurídico de este acto."
+  },
+  {
+    "word": "Área",
+    "meaning": "Medida de superficie que equivale a 0.01 de hectárea, o sea cien metros cuadrados. Cuadrado de diez metros por lado."
+  },
+  {
+    "word": "Árido",
+    "meaning": "Seco, estéril, de poco jugo o humedad. También se dice de los terrenos de composición, extremada y dominante, arcilla y caliza en los que falta la sustancia orgánica con que se equilibran y se debe a la atmósfera, temperatura extremas y ausencia de árboles."
+  },
+  {
+    "word": "Arroba",
+    "meaning": "Medida de peso igual a 25 libras, o sea, 11.5 kilogramos."
+  },
+  {
+    "word": "Avío",
+    "meaning": "Préstamo hecho a un labrador, ganadero, minero, etc. Utensilio que se usa en la agricultura y otras actividades."
+  },
+  {
+    "word": "Barbecho",
+    "meaning": "Primera labor que se hace a la tierra en el verano. Se deja descansar la tierra labrada que se deja sin cultivo uno o más años para que se restablezca."
+  },
+  {
+    "word": "Barrial",
+    "meaning": "Tierra gredosa o arcillosa que, por lo general, está cerca de vegetación y en ocasiones, salitrosa."
+  },
+  {
+    "word": "Bienes ejidales",
+    "meaning": "Sierras, bosques y aguas que se conceden a los ejidatarios para que los aprovechen en sus labores agrícolas."
+  },
+  {
+    "word": "Bienes mostrencos",
+    "meaning": "Aquellos bienes sin dueño conocido o abandonados en un sitio. Bienes que se encuentran perdidos o abandonados."
+  },
+  {
+    "word": "Bienes nacionales",
+    "meaning": "Bienes que pertenecen a la nación. Son nacionales los terrenos baldíos descubiertos, deslindados y medidos y no han sido enajenados."
+  },
+  {
+    "word": "Bienes públicos",
+    "meaning": "Bienes que corresponden en plena propiedad a la nación y en cuanto al uso a todos los residentes en ella."
+  },
+  {
+    "word": "Buey",
+    "meaning": "Toro castrado que se usa en las labores agrícolas."
+  },
+  {
+    "word": "Buey de agua",
+    "meaning": "Medida hidráulica usada para apreciar el volumen de agua que pasa por una acequia o brota de un manantial. Equivale a 48 surcos de agua o 312 litros de agua por segundo."
+  },
+  {
+    "word": "Campiña",
+    "meaning": "Espacio grande de tierra, labrantía, sierra o monte."
+  },
+  {
+    "word": "Cantera",
+    "meaning": "Sitio de donde se extraen piedras de construcción, mármol y otros."
+  },
+  {
+    "word": "Cañada",
+    "meaning": "Espacio de tierra entre dos montañas o alturas poco distantes. Vía para los ganados de 90 varas de ancho."
+  },
+  {
+    "word": "Censo",
+    "meaning": "Padrón o lista de personas, ganados u otros bienes. Censo original es el que sirve de base para conceder la dotación, restitución, ampliación de ejido o la creación de un nuevo centro de población ejidal."
+  },
+  {
+    "word": "Certificado de derechos agrarios",
+    "meaning": "Documento en que la autoridad agraria competente hace constar, para protección del ejidatario, el derecho que le corresponde sobre la parcela de labor o sobre el pastoreo."
+  },
+  {
+    "word": "Certificado de inafectabilidad",
+    "meaning": "Documento que se expide al propietario particular para amparar, contra afectaciones agrarias, la auténtica propiedad inafectable. Estos certificados pueden cancelarse o derogarse siempre que se compruebe que la propiedad no reúne los requisitos necesarios para ser considerada como tal."
+  },
+  {
+    "word": "Ciénega",
+    "meaning": "Laguna pantanosa y poco profunda que, al desaguar uno o varios arroyos en una gran depresión, se forma o se mantiene con sus crecientes a orillas fangosas."
+  },
+  {
+    "word": "Coeficiente de agostadero",
+    "meaning": "Extensión de tierra con pastos suficiente mayor, usada en regiones secas, durante la vida de una cabeza de ganado mayor, durante un año."
+  },
+  {
+    "word": "Colonización",
+    "meaning": "Trasladar a la gente de zonas muy pobladas a regiones despobladas, fundando nuevos centros o núcleos de población y entregándoles tierras, haciéndolos colonos."
+  },
+  {
+    "word": "Comisario ejidal y de bienes comunales",
+    "meaning": "Autoridad de los núcleos de población ejidal y comunal encargada de hacer cumplir los acuerdos de la asamblea, vigilar la ejecución de los programas de ejidatarios y comuneros, rendir cuentas sobre los cargos que presiden, entre otras obligaciones. Se elige y remueve por la asamblea general de ejidatarios o de comuneros. Sus funciones están definidas en la Ley Agraria."
+  },
+  {
+    "word": "Comité particular ejecutivo",
+    "meaning": "Órgano que representa a los núcleos de población solicitantes de tierras y aguas en la tramitación del expediente. Lo constituyen tres miembros que eligen los peticionarios para desempeñar los cargos de presidente, secretario y vocal."
+  },
+  {
+    "word": "Comunero",
+    "meaning": "Sujeto titular de un derecho que se posee en común. El que tiene en una heredad o hacienda raíz, en común con otros propietarios."
+  },
+  {
+    "word": "Comunidad indígena",
+    "meaning": "Sociedad local, ocupante de un territorio común, cuyos miembros participan en una forma colectiva de vida y, con ello, de un sistema propio de relaciones sociales generalmente directas."
+  },
+  {
+    "word": "Congregación",
+    "meaning": "Núcleo de población en la división territorial, cuya categoría es superior al conchavez por el número de sus habitantes o por su extensión, aunque se le considera inferior a la ranchería."
+  },
+  {
+    "word": "Consejo de vigilancia",
+    "meaning": "Autoridad de los núcleos de población ejidal y comunal integrada por tres ejidatarios o comuneros, cuyas responsabilidades son vigilar la correcta administración de los bienes comunes y comunales, así como la ejecución de los programas acordados por la asamblea."
+  },
+  {
+    "word": "Cota",
+    "meaning": "Anteriormente llamado acotación, anotación o cita. En topografía, es el signo que indica la altura de un punto de la superficie terrestre sobre el nivel del mar u otro punto de referencia."
+  },
+  {
+    "word": "Coto",
+    "meaning": "Porción de terreno acotada, generalmente reservada para ciertos fines, como caza, pastoreo, o explotación agrícola."
+  },
+
+  {
+    "word": "Dehesa",
+    "meaning": "Parte o porción de tierra acotada, destinada a la alimentación de ganados, especialmente cerdos. Extensión de tierra reservada para pastos."
+  },
+  {
+    "word": "Depuración censal",
+    "meaning": "Diligencia de rectificación de errores en el censo agrario de las tierras, para corregir y poner al día el primer censo del ejido."
+  },
+  {
+    "word": "Derechos del afectado",
+    "meaning": "Al propietario del bien que se va a expropiar le asiste el derecho de consultar el expediente abierto por la dependencia competente y objetar ante ésta la resolución en un plazo de cinco días a partir del momento en que se decrete la expropiación."
+  },
+  {
+    "word": "Desaguadero",
+    "meaning": "Todo conducto o canal por donde se da salida a las aguas sobrantes para que no perjudiquen a las plantas o personas con sus desbordamientos."
+  },
+  {
+    "word": "Deslinde",
+    "meaning": "Señalar y distinguir los términos de un lugar, provincia o heredad."
+  },
+  {
+    "word": "Desmonte",
+    "meaning": "Quitar árboles para cultivar la tierra. Tala de bosques."
+  },
+  {
+    "word": "Diligencia",
+    "meaning": "Actos que realizan los comités particulares ejecutivos asesorados por funcionarios oficiales, mediante los cuales los núcleos de población que pertenecen entran en posesión de las tierras, bosques y aguas que se les conceden."
+  },
+  {
+    "word": "Distrito de riego",
+    "meaning": "Extensión territorial sujeta a determinadas normas para aprovechar el agua en el riego de las tierras, ya sean aguas provenientes de una corriente, almacenadas en una obra hidráulica determinada o alumbradas por un sistema de perforaciones."
+  },
+  {
+    "word": "Distrito de temporal",
+    "meaning": "Extensión territorial sujeta a determinadas normas para el aprovechamiento de las tierras agrícolas que dependen de aguas pluviales para su cultivo."
+  },
+  {
+    "word": "Ejidal",
+    "meaning": "Terreno sin cultivar ni labrar."
+  },
+  {
+    "word": "Estero",
+    "meaning": "Terreno inmediato a la desembocadura de un río en el mar, por el cual se extienden las aguas de las mareas."
+  },
+  {
+    "word": "Explotación directa",
+    "meaning": "Explotación que realiza directamente el ejidatario, sin que se lleve a cabo por conducto o a través de otras personas."
+  },
+  {
+    "word": "Explotación indirecta",
+    "meaning": "Explotación que no realiza personalmente el ejidatario, sino que se lleva a cabo por conducto o a través de otras personas."
+  },
+  {
+    "word": "Expropiación",
+    "meaning": "Acto de quitar la propiedad a una persona. Las tierras, los bosques y las aguas de los ejidos sólo pueden ser expropiados por el presidente de la República, mediante indemnización y por causas de utilidad pública, con apego a las disposiciones de ley."
+  },
+  {
+    "word": "Imprescriptible",
+    "meaning": "Bienes y derechos que no pueden prescribir en favor de otra persona."
+  },
+  {
+    "word": "Inalienable",
+    "meaning": "Algo que no se puede enajenar o vender."
+  },
+  {
+    "word": "Inembargable",
+    "meaning": "En relación con los bienes ejidales significa que las tierras, bosques y aguas que pertenecen a los ejidos no pueden ser embargados."
+  },
+  {
+    "word": "Jornal",
+    "meaning": "Estipendio, salario que gana un trabajador del campo por cada día de trabajo."
+  },
+  {
+    "word": "Núcleos de población",
+    "meaning": "Desde el punto de vista del derecho agrario, hay dos clases de núcleos: 1. Los que poseen de hecho o por derecho, desde antes de la revolución, tierras y bosques y que, generalmente, son comunidades indígenas. 2. Los que han recibido dotaciones o restituciones y que son ejidos y nuevos centros de población ejidal."
+  },
+  {
+    "word": "Posta zootécnica",
+    "meaning": "Lugar o instalación donde se fomenta la crianza de ganado."
+  },
+  {
+    "word": "Sucesor legal",
+    "meaning": "Persona que, conforme a la ley, tiene derecho a heredar o suceder al ejidatario en sus derechos agrarios."
+  },
+  {
+    "word": "Terrenos baldíos",
+    "meaning": "Terrenos pertenecientes a la nación y que no han sido medidos ni deslindados."
+  },
+  {
+    "word": "Título de propiedad",
+    "meaning": "Documento con el que se prueba que una persona tiene el derecho de propiedad sobre una cosa."
+  },
+  {
+    "word": "Vacante",
+    "meaning": "Lo que no está ocupado. Los inmuebles vacantes son los que carecen de dueño cierto y conocido. Tratándose de una parcela se dice que está vacante cuando la persona, que la poseía legalmente con derecho, se ausenta del ejido, se muere o pierde por cualquier otro motivo la parcela. En este caso, la parcela está vacante aunque la ocupe ilegalmente una persona."
+  },
+  {
+    "word": "Unidad de dotación",
+    "meaning": "Superficie de tierra que se considera suficiente para sostener a una familia campesina."
+  },
+  {
+    "word": "Zonas federales",
+    "meaning": "Fajas de terreno en las riberas de ríos, lagos, lagunas y en costas o zonas marítimas que pertenecen a la nación."
+  },
+  {
+    "word": "Zonas de urbanización",
+    "meaning": "Extensiones de terreno destinadas al asiento de los núcleos de población ejidal o comunal, las cuales se fraccionan en lotes o solares para habitación de los ejidatarios y comuneros."
+  },
+  {
+    "word": "Abrogación",
+    "meaning": "Suspensión total de la vigencia de una ley y, como consecuencia, la pérdida de vigencia de la misma."
+  },
+  {
+    "word": "Abstención",
+    "meaning": "Excusa para no votar o firmar un dictamen."
+  },
+  {
+    "word": "Adiciones",
+    "meaning": "Agregados que aclaran o complementan un documento jurídico."
+  },
+  {
+    "word": "Adhesión",
+    "meaning": "Apegarse a una decisión o propuesta."
+  },
+  {
+    "word": "Ambiguo",
+    "meaning": "Algo que tiene más de un significado o interpretación."
+  },
+  {
+    "word": "Apertura",
+    "meaning": "Inicio de alguna sesión o periodo de trabajo legislativo."
+  },
+  {
+    "word": "Aprobación",
+    "meaning": "Acto por el cual las cámaras dan su visto bueno a un proyecto de ley."
+  },
+  {
+    "word": "Circunscripción",
+    "meaning": "División territorial que sirve de base para la postulación de diputados plurinominales."
+  },
+  {
+    "word": "Comisión",
+    "meaning": "Conjunto de personas nombradas temporalmente para ocuparse de un asunto o proyecto."
+  },
+  {
+    "word": "Constreñir",
+    "meaning": "Limitar."
+  },
+  {
+    "word": "Cuerpo colegiado",
+    "meaning": "Conjunto de personas que tienen una calidad determinada y que integran un órgano colectivo con facultades de decisión."
+  },
+  {
+    "word": "Curul",
+    "meaning": "Puesto o mandato parlamentario."
+  },
+  {
+    "word": "Decreto",
+    "meaning": "Acto del poder público que alude a la forma de aplicación de las leyes; orden gubernamental de carácter obligatorio."
+  },
+  {
+    "word": "Derogación",
+    "meaning": "Pérdida de vigencia parcial de una ley."
+  },
+  {
+    "word": "Discusión",
+    "meaning": "Acto por el cual las cámaras deliberan si un proyecto de ley debe ser aprobado o rechazado."
+  },
+  {
+    "word": "Discusión en lo general",
+    "meaning": "Poner a consideración del pleno el proyecto de ley en su conjunto."
+  },
+  {
+    "word": "Discusión en lo particular",
+    "meaning": "Poner a consideración del pleno un artículo específico de un proyecto de ley."
+  },
+  {
+    "word": "Distrito",
+    "meaning": "Unidad territorial que sirve de base para la selección de diputados de mayoría directa."
+  },
+  {
+    "word": "Enmienda",
+    "meaning": "Propuesta de modificación parcial de un proyecto de ley, siempre y cuando se haya sujetado a discusión."
+  },
+  {
+    "word": "Federación",
+    "meaning": "Asociación de grupos, sindicatos o entidades federativas que reconocen una autoridad común."
+  },
+  {
+    "word": "Federalismo",
+    "meaning": "Conjunto de soberanías que se unen con base en un mismo pacto común."
+  },
+  {
+    "word": "Fuero",
+    "meaning": "Privilegio."
+  },
+  {
+    "word": "Fuero parlamentario",
+    "meaning": "Privilegio del que gozan diputados y senadores al Congreso de la Unión, según el cual no pueden ser sometidos a juicio en tanto no hayan sido desaforados; funciona como una medida de protección a sus opiniones en el uso de sus facultades legislativas."
+  },
+  {
+    "word": "Iniciativa",
+    "meaning": "Acto por el cual las autoridades facultadas para ello envían al Congreso un proyecto de ley para su discusión y aprobación."
+  },
+  {
+    "word": "Investidura",
+    "meaning": "Cualquier título o cargo de dignidad."
+  },
+  {
+    "word": "Irrestricto",
+    "meaning": "Sin restricción."
+  },
+  {
+    "word": "Itinerante",
+    "meaning": "Sin lugar o ruta fija."
+  },
+  {
+    "word": "Legislación",
+    "meaning": "Fuente del derecho que comprende el conjunto de leyes de un país que han sido aprobadas por el Congreso y sancionadas por el Ejecutivo."
+  },
+  {
+    "word": "Legislador",
+    "meaning": "Persona integrante del Poder Legislativo, cuya función es discutir y aprobar leyes."
+  },
+  {
+    "word": "Legislatura",
+    "meaning": "Denominación con la que se designa a un cuerpo legislativo. Ley: Precepto o, en lo genérico, conjunto de preceptos que regula, o regulan, una materia en particular."
+  },
+  {
+    "word": "Libertad de asociación",
+    "meaning": "Derecho o garantía reconocida por la ley para que las personas se reúnan con un fin lícito."
+  },
+  {
+    "word": "Libertad de expresión",
+    "meaning": "Derecho para expresar las ideas, sin más límite que el respeto a los demás."
+  },
+  {
+    "word": "Libertad de prensa",
+    "meaning": "Derecho otorgado por la Constitución Política de los Estados Unidos Mexicanos para poder escribir y publicar sobre cualquier materia."
+  },
+  {
+    "word": "Moratoria",
+    "meaning": "Suspensión o prórroga concedida para el cumplimiento de determinadas obligaciones o para la exigencia de alguna disposición legal."
+  },
+  {
+    "word": "Parlamentario",
+    "meaning": "Se refiere a la asamblea o parlamento."
+  },
+  {
+    "word": "Parlamento",
+    "meaning": "Por similitud alude al Congreso, aunque nuestro sistema no es parlamentario."
+  },
+  {
+    "word": "Plebiscito",
+    "meaning": "En Roma, era la consulta a la plebe; en la actualidad se refiere a decisiones tomadas por consulta a los habitantes de una comunidad."
+  },
+  {
+    "word": "Plurinominal",
+    "meaning": "Se dice del candidato, representante o congreso designado de una lista propuesta por cada partido político en una circunscripción dada."
+  },
+  {
+    "word": "Presidente",
+    "meaning": "En general, es quien preside la asamblea."
+  },
+  {
+    "word": "Promulgación",
+    "meaning": "Acto por el cual el Ejecutivo ordena la publicación de un decreto o de una ley previamente aprobada por el Poder Legislativo."
+  },
+  {
+    "word": "Publicación",
+    "meaning": "Acto por el cual una ley aprobada por el Congreso y aprobada por el Ejecutivo se ordena a los órganos que deben de cumplirla. Esto se hace en el Diario Oficial de la Federación o en la Gaceta Oficial del Estado."
+  },
+  {
+    "word": "Quórum",
+    "meaning": "Número mínimo de integrantes de una asamblea o cuerpo colegiado que deben estar presentes para que lo acordado adquiera validez."
+  },
+  {
+    "word": "Reforma",
+    "meaning": "Modificación aprobada de una ley."
+  },
+  {
+    "word": "Refrendo",
+    "meaning": "Acto mediante el cual los secretarios de despacho asumen la responsabilidad que pueda derivar de leyes o decretos que se refieran a sus respectivas áreas de responsabilidad, el cual se formaliza uniendo su firma a los mismos. De acuerdo con el art. 92 de la Constitución Política de los Estados Unidos Mexicanos, todos los reglamentos, decretos y órdenes del presidente deberán estar firmados por el secretario de despacho, encargado del ramo a que el asunto corresponda y sin este requisito no serán obedecidos."
+  },
+  {
+    "word": "Remisión",
+    "meaning": "En materia legislativa se entiende como el envío de una iniciativa de ley a la Cámara, la cual no ha conocido del proyecto de ley, para que la estudie."
+  },
+  {
+    "word": "Retórica",
+    "meaning": "El arte de la oratoria o la discusión."
+  },
+  {
+    "word": "Sanción",
+    "meaning": "Acto por el cual el Ejecutivo aprueba un proyecto de ley, previamente discutido y aprobado por el Congreso. Se entiende que si no es autorizado, el Ejecutivo ha ejercido su derecho de veto."
+  },
+  {
+    "word": "Senador",
+    "meaning": "Representante de la soberanía en el Congreso General."
+  },
+  {
+    "word": "Soberanía",
+    "meaning": "Independencia o supremo poder."
+  },
+  {
+    "word": "Subvertir",
+    "meaning": "(De 'sub y vertere', 'verter sobre alguien') 'trastornar'."
+  },
+  {
+    "word": "Sufragio",
+    "meaning": "Voto."
+  },
+  {
+    "word": "Urna",
+    "meaning": "Recipiente en que se depositan los sufragios de los ciudadanos."
+  },
+  {
+    "word": "Votación",
+    "meaning": "Decisión emitida por el legislador en un determinado sentido respecto de un proyecto de ley o asunto sometido a consideración del Congreso por ser asunto de su competencia."
+  },
+  {
+    "word": "Votación nominal",
+    "meaning": "Aquella en la cual cada miembro de la Cámara se pone de pie y dice su apellido, expresando 'sí' o 'no' al proyecto sujeto a votación."
+  },
+  {
+    "word": "Administración pública",
+    "meaning": "Conjunto de órganos del Estado que, con dependencia del Ejecutivo, se encargan de la actividad administrativa del Estado."
+  },
+  {
+    "word": "Administración pública centralizada",
+    "meaning": "Integrada por la Presidencia de la República, las secretarías de Estado y la Procuraduría General de la República."
+  },
+  {
+    "word": "Asignación",
+    "meaning": "Figura jurídica que designa el régimen jurídico de explotación de bienes del Estado aplicado a los particulares de aquel que rige los organismos del sector público, gobiernos estatales y municipales."
+  },
+  {
+    "word": "Catastro",
+    "meaning": "Censo de inmuebles de un país."
+  },
+  {
+    "word": "Comisiones intersecretariales",
+    "meaning": "Organismos creados para atender asuntos que implican el ejercicio de la actividad administrativa y que se integran por representantes de varias secretarías de Estado, directores o gerentes de organismos descentralizados, empresas del Estado o represantes de ellas."
+  },
+  {
+    "word": "Concesión",
+    "meaning": "Acto administrativo con el que la autoridad administrativa faculta a un particular para prestar un servicio, como, por ejemplo, una concesión de radio o televisión."
+  },
+  {
+    "word": "Decreto administrativo",
+    "meaning": "Una decisión expresada en un acto administrativo y que crea una situación concreta."
+  },
+  {
+    "word": "Decreto ejecutivo",
+    "meaning": "Resolución expresada en un acto administrativo, dictado conforme a las facultades concedidas a la autoridad administrativa."
+  },
+  {
+    "word": "Empresa pública",
+    "meaning": "Empresas del Estado productoras de bienes o prestadoras de servicios que el Estado considera de interés general para la satisfacción de necesidades colectivas."
+  },
+  {
+    "word": "Empréstitos",
+    "meaning": "Préstamos concedidos al Estado, mediante la emisión de documentos sobre los que se paga un interés."
+  },
+  {
+    "word": "Fideicomiso",
+    "meaning": "Contrato por medio del cual los gobiernos federal, de los estados o de los ayuntamientos, a través de dependencias centrales o paraestatales con carácter fideicomitentes, transmiten la autoridad sobre bienes de dominio público o del dominio privado de la federación, entidad federativa o municipio."
+  },
+  {
+    "word": "Órganos desconcentrados",
+    "meaning": "Entidades dotadas de personalidad jurídica, patrimonio y régimen jurídico propios; desarrollan actividades que competen al Estado."
+  },
+  {
+    "word": "Organismos descentralizados",
+    "meaning": "Organismos creados por una ley o reglamento y que son dependientes del Ejecutivo."
+  },
+  {
+    "word": "Rescisión",
+    "meaning": "Facultad de alguna de las partes para terminar un contrato, en caso de que la otra incumpla sus obligaciones."
+  },
+  {
+    "word": "Revocación",
+    "meaning": "Acto jurídico con el que se anula otro anterior."
+  },
+  {
+    "word": "Servicio público",
+    "meaning": "Actividad que satisface necesidades colectivas, mediante prestaciones individualizadas sujetas a un régimen de derecho público, con los principios de regularidad, unanimidad, adecuación e igualdad."
+  },
+  {
+    "word": "Abandono de bienes de la nación",
+    "meaning": "Abandono de cualquier bien propiedad de la nación. Es una causa de cese de un trabajador."
+  },
+  {
+    "word": "Abandono de empleo",
+    "meaning": "Abandono o cuando se desatiende una función determinada; por ejemplo cuando no se regresa de alguna licencia o permiso."
+  },
+  {
+    "word": "Acta administrativa",
+    "meaning": "Constancia de hechos o sucesos que dan lugar al despido o a cualquier otra sanción. El acta administrativa debe contener la firma de testigos y debe elaborarse ante representantes sindicales para que sea válida."
+  },
+  {
+    "word": "Adscripción",
+    "meaning": "Lugar de trabajo al que pertenece el trabajador."
+  },
+  {
+    "word": "Aguinaldo",
+    "meaning": "La gratificación que, conforme a la ley, debe recibir el trabajador al finalizar el año. Esta gratificación forma parte del salario diario integrado."
+  },
+  {
+    "word": "Antigüedad",
+    "meaning": "Total del tiempo de prestación de servicios a un mismo patrón. En este caso al servicio del Estado."
+  },
+  {
+    "word": "Baja de un trabajador",
+    "meaning": "Aviso mediante el cual se le comunica la terminación de la relación de trabajo."
+  },
+  {
+    "word": "Base",
+    "meaning": "Categoría de nombramiento definitivo."
+  },
+  {
+    "word": "Carga de la prueba",
+    "meaning": "Se refiere al hecho de que quien debe probar es el patrón, pues éste tiene la documentación necesaria."
+  },
+  {
+    "word": "Cesantía por vejez",
+    "meaning": "Procede cuando un trabajador ha llegado a la edad requerida por la ley para ser jubilado."
+  },
+  {
+    "word": "Comisión mixta",
+    "meaning": "Grupo de personas compuesto por igual número de representantes de los trabajadores y del patrón, en los que cae la responsabilidad de vigilar el cumplimiento de determinados reglamentos y normas laborales del propio centro de trabajo."
+  },
+  {
+    "word": "Comisión de escalafón",
+    "meaning": "Al igual que la anterior, está formada por representantes del trabajador y del patrón. Se encarga de determinar quiénes deben ocupar las distintas categorías y plazas dentro del centro de trabajo sujeta a este proceso."
+  },
+  {
+    "word": "Compensación",
+    "meaning": "Pago complementario del salario."
+  },
+  {
+    "word": "Competencia del Tribunal de Arbitraje",
+    "meaning": "Tribunal señalado por la ley para conocer y resolver los conflictos laborales entre el Estado y sus trabajadores o entre los trabajadores."
+  },
+  {
+    "word": "Contrato colectivo",
+    "meaning": "Convenio entre el patrón y los trabajadores agrupados en un sindicato en el que se establecen las condiciones de trabajo."
+  },
+  {
+    "word": "Contrato de trabajo",
+    "meaning": "Convenio entre el trabajador y el patrón para prestar sus servicios a cambio de una remuneración."
+  },
+  {
+    "word": "Descuentos de salarios",
+    "meaning": "Descuentos a la remuneración que el trabajador recibe, ya sea por deudas con el patrón, por faltas al trabajo o cuando son solicitados por sentencia judicial, que generalmente es por pensión alimenticia."
+  },
+  {
+    "word": "Despido",
+    "meaning": "Cese de un trabajador, que puede ser justificado o injustificado."
+  },
+  {
+    "word": "Dictamen",
+    "meaning": "En general, es cualquier tipo de evaluación, realizada por la autoridad laboral o por cualquier comisión, como la comisión de escalafón."
+  },
+  {
+    "word": "Enfermedad de trabajo",
+    "meaning": "Estado patológico en que se encuentra el trabajador, declarado por la autoridad competente, derivado de una causa que tiene su origen en el trabajo o en el medio en que un trabajador presta sus servicios."
+  },
+  {
+    "word": "Horas extras",
+    "meaning": "Tiempo en el que, fuera de su jornada habitual de trabajo, el trabajador presta sus servicios al mismo patrón y que le deben ser pagadas a un tipo especial de salario."
+  },
+  {
+    "word": "Inamovilidad",
+    "meaning": "Garantía establecida en la ley a favor de ciertos funcionarios o de los cargos públicos, en virtud de la cual no pueden ser separados de sus cargos."
+  },
+  {
+    "word": "Indemnización",
+    "meaning": "Resarcimiento de una situación jurídica al estado que tenía antes de su modificación, como consecuencia de un deber jurídico de pago para resarcir el daño causado."
+  },
+  {
+    "word": "Indemnización por despido",
+    "meaning": "Pago que, conforme a la ley, se le da al trabajador que ha sido despedido."
+  },
+  {
+    "word": "Invalidéz",
+    "meaning": "Incapacidad física derivada de un accidente o enfermedad de trabajo. La incapacidad puede ser temporal o permanente, la que, a su vez, puede ser parcial o total."
+  },
+  {
+    "word": "Laudo",
+    "meaning": "Resolución de los tribunales laborales sobre un asunto que ha sido sometido a su consideración."
+  },
+  {
+    "word": "Licencia",
+    "meaning": "Solicitud, de acuerdo con el reglamento interior del trabajo, para separarse temporalmente de las labores."
+  },
+  {
+    "word": "Nombramiento",
+    "meaning": "Documento que hace constar un cargo, función o empleo que se le confiere a una persona."
+  },
+  {
+    "word": "Prórroga de nombramiento o contrato",
+    "meaning": "Aceptación, una vez terminado el contrato de trabajo establecido, de su prolongación por un tiempo mayor. Por lo general, la prórroga del nombramiento procede si persisten las circunstancias que lo originaron."
+  },
+  {
+    "word": "Rebeldía del demandado",
+    "meaning": "Se dice cuando alguna de las partes, que ha sido demandada en un juicio laboral, está en rebeldía porque no contesta la demanda o no se presenta a la audiencia."
+  },
+  {
+    "word": "Reconocimiento de un sindicato",
+    "meaning": "Registro o autorización otorgada por la autoridad para que una organización o asociación pueda representar a sus agremiados ante patrones y autoridades."
+  },
+  {
+    "word": "Reglamento interior del trabajo",
+    "meaning": "Conjunto de reglas, acordadas en un centro de trabajo, que rigen las actividades y condiciones laborales en que se deberán prestar los servicios por los trabajadores."
+  },
+  {
+    "word": "Reinstalación",
+    "meaning": "Acto por el cual a un trabajador, a quien se le ha depuesto de su trabajo, se le otorga de nuevo el trabajo que desempeñaba antes de su separación."
+  },
+  {
+    "word": "Renuncia",
+    "meaning": "Manifestación del trabajador, mediante la cual expresa su decisión de no continuar con la relación de trabajo. Para que la misma sea válida, debe cumplir con los requisitos que establecen las leyes."
+  },
+  {
+    "word": "Rescisión de la relación laboral",
+    "meaning": "Procedimiento o aviso inmediato en el que se notifica a cualquiera de las partes que la relación laboral se rescinde por los motivos previstos en la ley."
+  },
+  {
+    "word": "Riesgos de trabajo o riesgo profesional",
+    "meaning": "Conjunto de actividades realizadas por el trabajador y que producen un daño, para cuya tipificación es necesario cumplir los siguientes requisitos:\n a) Exista un riesgo profesional real.\n b) El riesgo se produzca en el desempeño del trabajo y como consecuencia del mismo.\n c) Las consecuencias de ese riesgo puedan cuantificarse a fin de que se sepa el monto de la indemnización."
+  },
+  {
+    "word": "Salario",
+    "meaning": "Remuneración que recibe el trabajador por su trabajo."
+  },
+  {
+    "word": "Salarios caídos",
+    "meaning": "Total de salarios que el patrón debe pagar al trabajador, en virtud de haberlo destituido, una vez que se ha ordenado su reinstalación."
+  },
+  {
+    "word": "Sanción",
+    "meaning": "Imposición de castigos administrativos a los trabajadores, con base en las disposiciones vigentes. Cuando un trabajador ya ha sido sancionado por faltas, éstas no pueden invocarse como motivo de cese del trabajador."
+  },
+  {
+    "word": "Sentencia o laudo",
+    "meaning": "Resolución judicial, en el caso de trabajadores al servicio del Estado, realizada por el Tribunal Federal de Conciliación y Arbitraje que finaliza un proceso o juicio."
+  },
+  {
+    "word": "Separación",
+    "meaning": "Destitución de un empleo o cargo, con fundamento en el art. 46, frac. V, de la Ley Federal de los Trabajadores al Servicio del Estado."
+  },
+  {
+    "word": "Sindicato",
+    "meaning": "Asociación o coalición de trabajadores o patrones establecida en el patrimonio y la defensa de los intereses comunes que representan."
+  },
+  {
+    "word": "Sobresueldo",
+    "meaning": "Pago adicional al sueldo del trabajador en función de la comisión que se les encomienda."
+  },
+  {
+    "word": "Suspensión temporal del empleo o contrato de trabajo",
+    "meaning": "Cesación temporal del nombramiento de un trabajador. De acuerdo con el art. 45 de la Ley Federal de los Trabajadores al Servicio del Estado, las causales de suspensión son:\n a) Una enfermedad que implique un peligro para las personas que trabajan con él.\n b) La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa. \n c) Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciera alguna irregularidad en su gestión mientras se practica la investigación y se resuelve el cese."
+  },
+  {
+    "word": "Supletoriedad",
+    "meaning": "Aplicación de ley diferente a aquella que debe regular determinadas situaciones. En los casos que la Ley Federal de los Trabajadores al Servicio del Estado no contemple se aplicará supletoriamente el Código Federal de Procedimientos Civiles. No puede aplicarse supletoriamente la Ley Federal del Trabajo cuando en el estatuto exista una determinación clara de que no puede ser suplida."
+  },
+  {
+    "word": "Supresión de plazas",
+    "meaning": "Retirar plazas del presupuesto por acuerdo del Ejecutivo. El señalamiento de los trabajadores afectados corresponde al sindicato."
+  },
+  {
+    "word": "Tabuladores",
+    "meaning": "Lista o catálogo de puestos. Cuando sean expedidos, en cumplimiento de lo establecido en el reglamento de escalafón, tiene valor legal y la Comisión está obligada a acatarlos y cumplirlos."
+  },
+  {
+    "word": "Títulos profesionales",
+    "meaning": "Requisito indispensable para ocupar determinadas plazas, el incumplimiento de este requisito significa la baja de un empleado que ocupe una plaza de esa categoría."
+  },
+  {
+    "word": "Trabajador de base",
+    "meaning": "Trabajador a quien se le ha dado un nombramiento definitivo y se considera inamovible (art. 60 de la Ley Federal de los Trabajadores al Servicio del Estado)."
+  },
+  {
+    "word": "Trabajador de confianza",
+    "meaning": "Trabajador cuya relación laboral implica realizar actividades de dirección, inspección, vigilancia y fiscalización, manejo de fondos o valores, auditoría, control directo de adquisiciones, autorización de ingresos o salida de bienes o valores. (art. 5o. de la Ley Federal de los Trabajadores al Servicio del Estado)."
+  },
+  {
+    "word": "Trabajadores interinos",
+    "meaning": "Trabajador que ocupa temporalmente una plaza con un trabajador de base, quien se encuentra con permiso o licencia y que, ya concluida, regresa a ocupar su plaza."
+  },
+  {
+    "word": "Trabajadores provisionales",
+    "meaning": "Trabajadores nombrados en este carácter, cuando haya vacantes temporales mayores de seis meses."
+  },
+  {
+    "word": "Trabajadores supernumerarios",
+    "meaning": "Trabajadores que se asignan, además del número regular y permanente de los de planta, para el desempeño de labores extraordinarias de carácter temporal."
+  },
+  {
+    "word": "Vacaciones",
+    "meaning": "Períodos de descanso que se le conceden al trabajador de base de acuerdo con la antigüedad que tenga al servicio del Estado."
+  },
+  {
+    "word": "Veteranos de la Revolución",
+    "meaning": "Trabajadores que, en igualdad de circunstancias, tienen preferencia para ocupar una plaza (art. 43, fracc. I, Veteranos de la Revolución y supervivientes de la Invasión Norteamericana de 1914)."
+  },
+  {
+    "word": "Accidente de trabajo",
+    "meaning": "Lesión orgánica o perturbación funcional inmediata o posterior, o también la muerte producida repentinamente o por motivo del trabajo, cualquiera que sea el lugar y el tiempo, o sufrida por el trabajador en el desempeño del trabajo o en tránsito del centro de trabajo a su domicilio o viceversa."
+  },
+  {
+    "word": "Acción colectiva",
+    "meaning": "Facultad otorgada a los sindicatos o coaliciones de trabajadores para el ejercicio de sus derechos laborales ante los órganos del Estado."
+  },
+  {
+    "word": "Acta laboral",
+    "meaning": "Documento que contiene las actuaciones laborales de las partes ante las autoridades o de las partes entre sí."
+  },
+  {
+    "word": "Actuarios laborales",
+    "meaning": "Funcionarios adscritos a las juntas de conciliación y arbitraje encargados de hacer notificaciones, emplazamientos, embargos y requerimientos a las partes de un procedimiento laboral."
+  },
+  {
+    "word": "Ampliación de la demanda",
+    "meaning": "Adición al escrito de demanda inicial, reclamando otras prestaciones que no fueron contempladas en ésta."
+  },
+  {
+    "word": "Apoderado laboral",
+    "meaning": "Representante legal de un patrón o un trabajador en un juicio laboral."
+  },
+  {
+    "word": "Arbitraje laboral",
+    "meaning": "Conocimiento y decisión de los asuntos laborales por las juntas de conciliación y arbitraje."
+  },
+  {
+    "word": "Autos",
+    "meaning": "Resoluciones de los tribunales laborales que son incidentes o resoluciones interlocutorias cuando resuelvan un incidente dentro o fuera de juicio."
+  },
+  {
+    "word": "Aviso de rescisión",
+    "meaning": "Comunicación que, por ley, debe dar el patrón al trabajador sobre la causa o causas del despido."
+  },
+  {
+    "word": "Causal de rescisión",
+    "meaning": "Razón o motivo por el cual pueden romper la relación de trabajo el patrón o el trabajador."
+  },
+  {
+    "word": "Coalición",
+    "meaning": "Acuerdo temporal de un grupo de trabajadores o patrones para la defensa de sus intereses."
+  },
+  {
+    "word": "Conciliación laboral",
+    "meaning": "Diligencia en la que el órgano laboral trata de avenir a las partes. Plática ante el órgano laboral para tratar de poner fin a una controversia."
+  },
+  {
+    "word": "Condiciones de trabajo",
+    "meaning": "Estipulaciones pactadas entre el patrón y el trabajador o entre el patrón y el sindicato de trabajadores, las cuales se estipulan en el contrato colectivo de trabajo o en el contrato ley."
+  },
+  {
+    "word": "Contrato colectivo de trabajo",
+    "meaning": "Convenio celebrado entre uno o varios sindicatos de trabajadores, entre uno o varios patrones, o entre uno o varios sindicatos de patrones, con objeto de establecer las condiciones según las cuales debe prestarse el trabajo en una o más empresas o establecimientos."
+  },
+  {
+    "word": "Contrato individual de trabajo",
+    "meaning": "Acuerdo en el que una persona se obliga a prestar a otra un trabajo personal subordinado a cambio del pago de un salario."
+  },
+  {
+    "word": "Contrato de trabajo por tiempo determinado",
+    "meaning": "Contrato en que el trabajador se obliga a prestar servicios personales subordinados a un patrón por un tiempo determinado a cambio de una remuneración."
+  },
+  {
+    "word": "Contrato ley",
+    "meaning": "Contrato celebrado entre uno o varios sindicatos de trabajadores y varios patrones, o uno o varios sindicatos de patrones, con el objeto de establecer las condiciones en las cuales debe prestarse el trabajo en una determinada rama de la industria. En consecuencia, el contrato ley se celebra para una de las entidades federativas, o en una o varias zonas económicas."
+  },
+  {
+    "word": "Convenio laboral",
+    "meaning": "Acuerdo entre las partes en conflicto que pone fin a una controversia."
+  },
+  {
+    "word": "Despido justificado",
+    "meaning": "Separación del trabajo sin causa justificada y ordenada por el patrón."
+  },
+  {
+    "word": "Diligencia de emplazamiento",
+    "meaning": "Actuación por medio de la cual el actuario de la Junta de Conciliación y Arbitraje notifica y corre el traslado de la demanda a la parte demandada."
+  },
+  {
+    "word": "Ejecución de laudo",
+    "meaning": "Cumplimiento de lo resuelto en un laudo."
+  },
+  {
+    "word": "Embargo laboral",
+    "meaning": "Secuestro y depósito de bienes como consecuencia de la ejecución de una resolución de la Junta de Conciliación y Arbitraje con el fin de garantizar el cumplimiento de pago a los trabajadores."
+  },
+  {
+    "word": "Emplazamiento a huelga",
+    "meaning": "Presentación del escrito, ante la Junta de Conciliación y Arbitraje correspondiente, que contiene las peticiones formuladas al patrón, donde se indica el inicio de la suspensión de labores."
+  },
+  {
+    "word": "Enfermedad de trabajo",
+    "meaning": "Estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo o en el medio en que el trabajador se ve obligado a prestar sus servicios."
+  },
+  {
+    "word": "Enfermedad profesional",
+    "meaning": "Afectación patológica sufrida como consecuencia de la prestación del servicio."
+  },
+  {
+    "word": "Enfermedad no profesional",
+    "meaning": "Enfermedad sufrida por causas no imputables a la prestación del servicio."
+  },
+  {
+    "word": "Escalafón",
+    "meaning": "Clasificación de los trabajadores en el centro de trabajo en orden a su antigüedad, categoría y salario."
+  },
+  {
+    "word": "Falta de personalidad",
+    "meaning": "Carencia de aptitud para ser sujeto de derechos y obligaciones laborales. No tiene legitimidad para actuar en un proceso laboral."
+  },
+  {
+    "word": "Fijación de la litis laboral",
+    "meaning": "Momento procesal en el que se determina con precisión la discusión del negocio laboral."
+  },
+  {
+    "word": "Horario de trabajo",
+    "meaning": "Tiempo que comprende desde el principio y hasta el final de cada jornada de trabajo."
+  },
+  {
+    "word": "Huelga",
+    "meaning": "Suspensión temporal del trabajo llevada a cabo por una coalición de trabajadores."
+  },
+  {
+    "word": "Huelga ilícita",
+    "meaning": "Aquella donde los trabajadores ejecutan actos violentos en contra de los bienes de los patrones, o en caso de guerra declarada, cuando los trabajadores de establecimientos o servicios dependientes del gobierno."
+  },
+  {
+    "word": "Huelga injustificada",
+    "meaning": "Aquella cuyos motivos no cumplen los puntos de la legislación laboral, art. 450 de la Ley Federal del Trabajo."
+  },
+  {
+    "word": "Huelga legalmente existente",
+    "meaning": "La que satisface los requisitos y períodos que establece el art. 459 de la Ley Federal del Trabajo."
+  },
+  {
+    "word": "Huelga legalmente inexistente",
+    "meaning": "La que contraviene lo dispuesto en el art. 459 de la Ley Federal del Trabajo."
+  },
+  {
+    "word": "Incapacidad",
+    "meaning": "Disminución o pérdida de facultades o aptitudes de una persona para trabajar. Esta disminución o pérdida puede ser temporal, permanente parcial, permanente total o profesional."
+  },
+  {
+    "word": "Incidente laboral",
+    "meaning": "Cuestión que se suscita en un juicio laboral y que debe resolverse antes del fallo principal. Cuestión que puede surgir dentro de un proceso laboral que, sin referirse al fondo del asunto, debe resolverse para seguir adelante con el juicio."
+  },
+  {
+    "word": "Incumplimiento del contrato colectivo de trabajo",
+    "meaning": "No efectuar lo pactado en el contrato colectivo de trabajo."
+  },
+  {
+    "word": "Incumplimiento del contrato ley",
+    "meaning": "No efectuar lo pactado en el contrato ley."
+  },
+  {
+    "word": "Indemnización constitucional",
+    "meaning": "Pago a cargo del patrón por despido injustificado; consiste en tres meses de salario."
+  },
+  {
+    "word": "Indemnización por accidente de trabajo",
+    "meaning": "Pago a cargo del patrón o del Seguro Social, según sea el caso, por toda la lesión o por perturbación funcional, inmediata o posterior, o por la muerte producida repentinamente en ejercicio o con motivo del trabajo. Si el trabajador está asegurado el pago corresponderá al Seguro Social; si no lo está, corresponderá al patrón."
+  },
+  {
+    "word": "Indemnización por invalidez",
+    "meaning": "Pago a cargo del Seguro Social por incapacidad del trabajador asegurado para obtener un salario superior a 50% del salario mínimo vigente según la zona económica, por incapacidad derivada de una enfermedad o accidente no profesional, o también por agotamiento físico o mental, o bien, cuando pierda la aptitud o se encuentre en estado permanente que le impida trabajar."
+  },
+  {
+    "word": "Indemnización por muerte",
+    "meaning": "Pago a los beneficiarios del trabajador por parte del Instituto Mexicano del Seguro Social o al patrón, según sea el caso, por la muerte del trabajador como resultado de un accidente de trabajo. Si el trabajador está asegurado corresponderá al Seguro Social dicho pago; si no lo está, le corresponderá al patrón."
+  },
+  {
+    "word": "Indemnización por riesgo de trabajo",
+    "meaning": "Pago al trabajador por parte del Instituto Mexicano del Seguro Social o al patrón, en su caso, por accidentes, enfermedades o la muerte que se originen con ocasión del trabajo."
+  },
+  {
+    "word": "Indemnización por riesgo no profesional",
+    "meaning": "Pago que en ciertos condiciones se otorga al trabajador por causa ajena al trabajo."
+  },
+  {
+    "word": "Indemnización por vejez",
+    "meaning": "Pago que se da al trabajador al cumplir 65 años de edad y reunir las semanas cotizadas o 500 cotizaciones en el Instituto Mexicano del Seguro Social."
+  },
+  {
+    "word": "Integración del salario",
+    "meaning": "Prestaciones que, en conjunto, conforman el salario del trabajador: indemnización del salario que corresponda, aguinaldo, horas extraordinarias y la cantidad equivalente a las cuotas que otro patrón pague al trabajador por concepto de riesgos de trabajo."
+  },
+  {
+    "word": "Jornada",
+    "meaning": "Tiempo durante el cual el trabajador está a disposición del patrón para prestar su servicio de trabajo personal subordinado. Cuando es diurna comprende entre las 6:00 y las 20:00 horas."
+  },
+  {
+    "word": "Jornada extraordinaria",
+    "meaning": "Prolongación de la jornada normal de trabajo."
+  },
+  {
+    "word": "Jornada mixta",
+    "meaning": "Comprende los periodos de las jornadas diurna y nocturna, siempre y cuando el periodo nocturno sea menor de tres horas y media; en caso contrario, se considerará nocturna."
+  },
+  {
+    "word": "Jornada nocturna",
+    "meaning": "Comprende entre las 20:00 horas y las 6:00 del día siguiente."
+  },
+  {
+    "word": "Laudos",
+    "meaning": "Resoluciones de los tribunales laborales cuando deciden sobre el fondo de un conflicto."
+  },
+  {
+    "word": "Nulidad de actuaciones laborales",
+    "meaning": "Procedimiento o acción incidental con la cual o de la cual se atacan las actuaciones que no se practicaron con las formalidades señaladas por la Ley Federal del Trabajo."
+  },
+  {
+    "word": "Nulidad de notificaciones",
+    "meaning": "Acción incidental cuyo objeto es anular las notificaciones que no se hicieron conforme a las formalidades de los procedimientos laborales."
+  },
+  {
+    "word": "Objeción de pruebas",
+    "meaning": "Oposición del actor en un juicio laboral para el efecto de que no se admitan las pruebas que ofrece el demandado, o viceversa, señalando los defectos de que adolecen."
+  },
+  {
+    "word": "Participación de utilidades",
+    "meaning": "Derecho de los trabajadores a recibir un porcentaje de las ganancias anuales de la empresa o patrón. Intervención de los trabajadores en las ganancias anuales de la empresa."
+  },
+  {
+    "word": "Patrón",
+    "meaning": "Persona física o moral que utiliza los servicios de uno o varios trabajadores. Si el trabajador emplea los servicios de otros trabajadores, se considera que también lo será el patrón."
+  },
+  {
+    "word": "Prima de antigüedad",
+    "meaning": "Pago o prestación en efectivo equivalente a doce días por cada año de servicio, que deberá entregar al trabajador que se separe voluntariamente de su empleo. Asimismo, este pago deberá hacerse a quienes se separen por causa justificada, o a sus beneficiarios si el trabajador fallece. La prima se paga a los trabajadores que sean separados de su empleo y que hayan cumplido quince años de servicio; su importe es de doce días de salario por cada año de servicio."
+  },
+  {
+    "word": "Retiro voluntario",
+    "meaning": "Separación del centro de trabajo por propia voluntad del trabajador."
+  },
+  {
+    "word": "Riesgo de trabajo",
+    "meaning": "Toda enfermedad o accidente de trabajo que están expuestos los trabajadores en ejercicio o con motivo de su trabajo."
+  },
+  {
+    "word": "Rescisión",
+    "meaning": "Acto jurídico unilateral realizado por el trabajador o el patrón consistente en dar por terminada la relación de trabajo en el caso de alguna de las causas señaladas en la Ley Federal del Trabajo. Es un acto unilateral, pero no arbitrario, en atención a que tanto el patrón como el trabajador están obligados a probar la causa de rescesión que invoquen para romper la relación o el contrato de trabajo. Las causales de rescisión sin responsabilidad para el patrón puede consultarse en el art. 47 de la Ley Federal de Trabajo."
+  },
+  {
+    "word": "Salario",
+    "meaning": "Retribución que debe pagar el patrón al trabajador por su trabajo. Puede fijarse por unidad de tiempo, unidad de obra, comisión a precio alzado o de cualquier otra manera."
+  },
+  {
+    "word": "Sindicato",
+    "meaning": "Asociación de trabajadores o patrones, constituida para el estudio, mejoramiento y defensa de sus respectivos intereses."
+  },
+  {
+    "word": "Suplencia de la queja laboral",
+    "meaning": "Facultad que otorga la ley a las autoridades laborales federales para suplir las omisiones o peticiones que no hizo el trabajador en la demanda inicial en la segunda instancia. Derecho del trabajador a que se suplan en la segunda instancia las omisiones en que incurrió en la primera instancia."
+  },
+  {
+    "word": "Trabajador",
+    "meaning": "Persona física que presta a otra, sea física o moral, un trabajo personal subordinado."
+  },
+  {
+    "word": "Trabajo",
+    "meaning": "Toda actividad humana, intelectual o material, independientemente del grado de preparación técnica requerido por cada profesión u oficio."
+  },
+  {
+    "word": "Accesión",
+    "meaning": "Derecho por medio del cual el titular del derecho de propiedad convierte en suyo todo lo que la cosa produce o se le une de una manera natural o artificial."
+  },
+  {
+    "word": "Acción",
+    "meaning": "Término general con el que se designa el ejercicio de un derecho."
+  },
+  {
+    "word": "Actuario",
+    "meaning": "Uno de los ayudantes del juez, cuya misión es notificar y realizar actos de fe que le encomiende el juez."
+  },
+  {
+    "word": "Adjudicación",
+    "meaning": "Acto jurídico de autoridad del Estado, por el cual éste hace ingresar a su patrimonio o al de otra persona un derecho cuya titularidad correspondía a otra persona mediante un procedimiento establecido en ley."
+  },
+  {
+    "word": "Alimentos",
+    "meaning": "Comida, vestido, habitación y asistencia en caso de enfermedad. Respecto de los menores, los alimentos comprenden además los gastos necesarios para la educación primaria y para proporcionar algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales."
+  },
+  {
+    "word": "Bien",
+    "meaning": "Todo aquello susceptible de apropiación por las personas, siempre que las cosas apropiables sean consideradas dentro del derecho."
+  },
+  {
+    "word": "Buena fe",
+    "meaning": "Actuar sin ánimo de obrar con maldad."
+  },
+  {
+    "word": "Capacidad",
+    "meaning": "Aptitud de una persona para ser titular de derechos y obligaciones."
+  },
+  {
+    "word": "Capacidad de ejercicio",
+    "meaning": "Aptitud para ejercer por sí mismo sus derechos y obligaciones."
+  },
+  {
+    "word": "Capitulaciones matrimoniales",
+    "meaning": "Convenio que celebran las personas cuando contraen matrimonio conforme al régimen de sociedad conyugal."
+  },
+  {
+    "word": "Cesión de derechos",
+    "meaning": "Acto por el cual el acreedor transfiere a otros los derechos que tiene contra su deudor."
+  },
+  {
+    "word": "Compensación",
+    "meaning": "Ocurre cuando se reducen recíprocamente las deudas entre deudores y acreedores hasta la cantidad que resulte menor."
+  },
+  {
+    "word": "Competencia",
+    "meaning": "Capacidad de un juez para tomar a su cargo un asunto conforme a la facultad que le concede la ley."
+  },
+  {
+    "word": "Condición",
+    "meaning": "Acontecimiento futuro de realización incierta del cual dependen la existencia, eficacia o la resolución de derechos y obligaciones."
+  },
+  {
+    "word": "Confusión",
+    "meaning": "Ocurre cuando en una obligación las calidades de acreedor y deudor se reúnen en una misma persona."
+  },
+  {
+    "word": "Contrato",
+    "meaning": "Convenios que crean o transfieren obligaciones y derechos."
+  },
+  {
+    "word": "Convenio",
+    "meaning": "Acuerdo entre dos o más personas para crear, transferir, modificar o extinguir derechos y obligaciones."
+  },
+  {
+    "word": "Dar fe",
+    "meaning": "Dar constancia de actos y hechos jurídicos para que éstos adquieran legalidad."
+  },
+  {
+    "word": "Defensa",
+    "meaning": "Acto de repeler una acción injusta. Los hechos o razones jurídicas que hace valer un demandado para destruir o enervar la acción del demandante. A quien hace válidos estos hechos se le llama defensor."
+  },
+  {
+    "word": "Defensor de oficio",
+    "meaning": "Abogado nombrado por el gobierno para asistir en asuntos jurídicos a personas de escasos recursos."
+  },
+  {
+    "word": "Derecho real",
+    "meaning": "Poder jurídico que se ejerce de manera directa o indirecta respecto de un bien para obtener el grado de aprovechamiento que autoriza el título legal; esta facultades es oponible universalmente."
+  },
+  {
+    "word": "Derecho personal",
+    "meaning": "Relación jurídica que se establece entre una persona, denominada acreedor, que puede exigir a otra, llamada deudor, cumplir con una prestación de carácter patrimonial: dar, hacer o no hacer, a la que se encuentra obligado por voluntad de las partes o por mandato de ley."
+  },
+  {
+    "word": "Divorcio",
+    "meaning": "Disolución del vínculo matrimonial que deja a los cónyuges en aptitud para contraer otro matrimonio."
+  },
+  {
+    "word": "Dolo",
+    "meaning": "Sugerencia o artificio empleado para inducir a error o mantener en él a alguno de los contratantes."
+  },
+  {
+    "word": "Domicilio",
+    "meaning": "Lugar donde una persona reside habitualmente. A falta de éste, el domicilio corresponderá al centro principal de sus negocios. Aunándose éstos, será considerado simplemente residencia y, en su defecto, el lugar donde se encuentre."
+  },
+  {
+    "word": "Domicilio convencional",
+    "meaning": "Lugar que fija la persona para el cumplimiento de determinadas obligaciones."
+  },
+  {
+    "word": "Domicilio conyugal",
+    "meaning": "Lugar donde los cónyuges viven en común."
+  },
+  {
+    "word": "Domicilio legal",
+    "meaning": "Lugar de la residencia de una persona para el ejercicio de sus derechos y cumplimiento de sus obligaciones. Se requiere cuando es necesario ejercitar alguna acción judicial que involucra al interesado."
+  },
+  {
+    "word": "Donaciones antenupciales",
+    "meaning": "Donaciones o dádivas que se hacen de uno de los futuros cónyuges al otro antes de contraer matrimonio."
+  },
+  {
+    "word": "Error",
+    "meaning": "Falsa apreciación de la realidad. Existe el error obstáculo, el error nulidad, que puede ser de hecho o de derecho, y el error indiferente."
+  },
+  {
+    "word": "Objeción",
+    "meaning": "Oposición por parte de un abogado a que se haga una pregunta a un acusado o a la forma en que se hace."
+  },
+  {
+    "word": "Perdón judicial",
+    "meaning": "Decisión judicial que libera al infractor de sufrir un castigo en atención a su poca peligrosidad o a la poca gravedad de la infracción. En estos casos, por lo general, se aplica una reprimenda en lugar de la pena."
+  },
+  {
+    "word": "Actos consentidos",
+    "meaning": "Se presumen así, para los efectos del amparo, cuando no han sido reclamados en esa vía dentro de los plazos que señala la ley."
+  },
+  {
+    "word": "Acto reclamado",
+    "meaning": "Consiste en un hacer o un no hacer e incluso la probabilidad de hacer que el quejoso o agraviado imputa a la autoridad responsable como violatorio de garantías."
+  },
+  {
+    "word": "Agravado",
+    "meaning": "Quejoso o persona que sufre el perjuicio o agravio personal y directo o que está a punto de sufrirlo."
+  },
+  {
+    "word": "Amparo administrativo",
+    "meaning": "Juicio de garantías que se promueve en contra de autoridades administrativas. Este se promueve ante un juez de distrito en materia administrativa."
+  },
+  {
+    "word": "Amparo civil",
+    "meaning": "Aunque es un juicio de garantías, como cualquier otro, es la controversia versa sobre materia civil. De la misma manera, es costumbre calificar el amparo según la materia controvertida, como amparo penal, amparo fiscal, amparo laboral, etcétera."
+  },
+  {
+    "word": "Amparo concedido",
+    "meaning": "Otorgamiento de la protección de la justicia federal al quejoso, aunque en realidad sólo se concede la suspensión del acto reclamado."
+  },
+  {
+    "word": "Amparo contra leyes",
+    "meaning": "Juicio de garantías que se promueve contra leyes, decretos, reglamentos o tratados internacionales, por considerarlos violatorios de garantías."
+  },
+  {
+    "word": "Amparo contra orden de aprehensión",
+    "meaning": "Juicio de garantías que se promueve contra la orden de aprehensión emanada de un juez."
+  },
+  {
+    "word": "Amparo directo",
+    "meaning": "Juicio de garantías que se promueve ante un tribunal colegiado de circuito o la Suprema Corte de Justicia de la Nación."
+  },
+  {
+    "word": "Amparo improcedente",
+    "meaning": "Juicio de garantías que no procede por disposición expresa de la ley. Las causales de improcedencia se relacionan en el art. 73 de la Ley de Amparo."
+  },
+  {
+    "word": "Amparo negado",
+    "meaning": "Sentencia dictada en un procedimiento de amparo donde se niega al quejoso la protección de la justicia federal."
+  },
+  {
+    "word": "Amparo indirecto",
+    "meaning": "Juicio de garantías que se promueve ante un juez de distrito y que consta de dos instancias, o admite el recurso de revisión."
+  },
+  {
+    "word": "Audiencia constitucional",
+    "meaning": "Actuación que efectúa la autoridad federal para oír, recibir y desahogar las pruebas que ofrezcan las partes en el juicio de amparo con la finalidad de resolver sobre la constitucionalidad de los actos reclamados."
+  },
+  {
+    "word": "Auto de admisión de la demanda de amparo",
+    "meaning": "Acuerdo de la autoridad de amparo por medio del cual admite el trámite de la demanda de amparo."
+  },
+  {
+    "word": "Auto de suspensión provisional",
+    "meaning": "Acuerdo por medio del cual la autoridad responsable en el amparo indirecto concede o niega la suspensión provisional de los actos reclamados."
+  },
+  {
+    "word": "Autoridad ejecutora",
+    "meaning": "Autoridad que ejecuta o trata de ejecutar actos violatorios de garantías individuales o los actos reclamados."
+  },
+  {
+    "word": "Autoridad responsable",
+    "meaning": "Autoridad que dicta, promulga, ordena, ejecuta o trata de ejecutar la ley o el acto reclamado."
+  },
+  {
+    "word": "Caducidad de la instancia",
+    "meaning": "Extinción de la instancia en el juicio de amparo por abandono de las partes, fundamentalmente el quejoso."
+  },
+  {
+    "word": "Competencia en amparo",
+    "meaning": "Facultad de la autoridad judicial para conocer de un asunto en materia de amparo."
+  },
+  {
+    "word": "Cómputo de los términos en el juicio de amparo",
+    "meaning": "El cómputo comenzará a correr desde el día siguiente al que surta sus efectos la notificación y concluirá en el día y hora señalados."
+  },
+  {
+    "word": "Conceptos de violación",
+    "meaning": "Agravios expresados por el quejoso en la demanda de amparo."
+  },
+  {
+    "word": "Concurso de leyes en el amparo",
+    "meaning": "Contradicciones de leyes en el juicio de amparo."
+  },
+  {
+    "word": "Demanda de amparo",
+    "meaning": "Escrito formal, presentado ante la autoridad competente, por medio del cual el quejoso solicita el amparo de la justicia federal."
+  },
+  {
+    "word": "Ejecución de la sentencia de amparo",
+    "meaning": "Cumplimiento de la sentencia de amparo por la autoridad que la dictó."
+  },
+  {
+    "word": "Ejecución del acto reclamado",
+    "meaning": "Realización del acto reclamado por la autoridad responsable."
+  },
+  {
+    "word": "Existencia del acto reclamado",
+    "meaning": "Presencia del acto reclamado como actuación inconstitucional o ilegal por parte de la autoridad responsable, cuya existencia está comprobada."
+  },
+  {
+    "word": "Efectos de la suspensión provisional",
+    "meaning": "Consecuencias que se traducen en la protección provisional en contra de la ejecución de los actos reclamados."
+  },
+  {
+    "word": "Fórmula Otero",
+    "meaning": "Principio de la relatividad de la sentencia de amparo. Según éste la sentencia de la demanda de amparo sólo beneficia a la persona que lo promovió; ésta fue creada por Mariano Otero, uno de los precursores del amparo mexicano."
+  },
+  {
+    "word": "Fianza",
+    "meaning": "Garantía que fija la autoridad judicial al quejoso para suspender de manera provisional los actos reclamados."
+  },
+  {
+    "word": "Impedimentos y excusas",
+    "meaning": "Causas, hechos o circunstancias que obligan a un funcionario de amparo a renunciar o dejar de conocer sobre un asunto, los cuales se establecen en la ley."
+  },
+  {
+    "word": "Incompetencia",
+    "meaning": "Falta de jurisdicción de la autoridad judicial, y en el amparo específicamente, para conocer y resolver un determinado asunto."
+  },
+  {
+    "word": "Informe justificado",
+    "meaning": "Informe que rinde la autoridad responsable a la autoridad judicial, en el incidente de suspensión, informándole sobre el acto reclamado. Está fundamentado en la ley y es constitucional."
+  },
+  {
+    "word": "Informe previo",
+    "meaning": "Informe que rinde la autoridad responsable en el incidente de suspensión, en el que se concreta si informará, o si no tiene o no los actos reclamados."
+  },
+  {
+    "word": "Interlocutoria",
+    "meaning": "Resolución no definitiva del juez de distrito que se da en el procedimiento de amparo como consecuencia de la promoción de un incidente."
+  },
+  {
+    "word": "Juicio de amparo",
+    "meaning": "Procedimiento en el que la autoridad judicial examina la validez o constitucionalidad de actos de autoridad."
+  },
+  {
+    "word": "Juzgado de distrito",
+    "meaning": "Tribunal del Poder Judicial Federal que conoce del juicio de amparo indirecto."
+  },
+  {
+    "word": "Legalidad",
+    "meaning": "Garantía de que la autoridad debe observar las formas y procedimientos legales para no causar molestia a las personas."
+  },
+  {
+    "word": "Motivación legal",
+    "meaning": "Garantía de seguridad jurídica en el amparo; los actos de autoridad deben ajustarse a la ley."
+  },
+  {
+    "word": "Partes en el juicio de amparo",
+    "meaning": "Persona física o moral con interés legítimo en el juicio de amparo. Son partes en el juicio de amparo: el agraviado o agraviados, la autoridad o autoridades responsables, el tercero o terceros perjudiciados y el Ministerio Público Federal."
+  },
+  {
+    "word": "Personalidad en el amparo",
+    "meaning": "Facultad o aptitud para promover el juicio de amparo."
+  },
+  {
+    "word": "Presunción de certeza",
+    "meaning": "Figura jurídica que, cuando la autoridad responsable omite rendir el informe justificado del acto reclamado, se da por establecida."
+  },
+  {
+    "word": "Quejoso",
+    "meaning": "Persona que sufre perjuicios por el acto de autoridad. Asimismo, persona que sufre agravio personal y directo a la persona que solicita el amparo y la protección de la justicia federal."
+  },
+  {
+    "word": "Reclamación",
+    "meaning": "Recurso procedente contra los acuerdos de trámite dictados por el presidente de la Suprema Corte de Justicia de la Nación o por los presidentes de sus salas o de los tribunales colegiados de circuito."
+  },
+  {
+    "word": "Recursos",
+    "meaning": "Medios de impugnación contra los acuerdos o resoluciones de las autoridades del Poder Judicial Federal."
+  },
+  {
+    "word": "Recusación",
+    "meaning": "Petición que se formula a un funcionario para que se inhiba de seguir conociendo sobre un asunto."
+  },
+  {
+    "word": "Repetición del acto reclamado",
+    "meaning": "Cuando la autoridad responsable repite el acto que se reclama."
+  },
+  {
+    "word": "Resoluciones que ponen fin al juicio",
+    "meaning": "Resoluciones que, sin decidir el juicio en lo principal, lo dan por concluido, y sobre las cuales las leyes comunes no conceden ningún recurso ordinario con el que puedan ser modificadas o revocadas."
+  },
+  {
+    "word": "Revisión",
+    "meaning": "Recurso que se interpone, por lo general, en contra de resoluciones de los jueces de distrito, vinculadas con el juicio de amparo. Casi siempre, este recurso se interpone en contra de una sentencia dictada por los jueces de distrito en la audiencia constitucional."
+  },
+  {
+    "word": "Revocación",
+    "meaning": "Modificación de las resoluciones de los jueces de distrito hecha por autoridades superiores del Poder Judicial."
+  },
+  {
+    "word": "Semanario judicial",
+    "meaning": "Órgano de la Suprema Corte de Justicia de la Nación encargado de la publicación de las ejecutorias y jurisprudencias de los Tribunales del Poder Judicial Federal."
+  },
+  {
+    "word": "Sentencia definitiva",
+    "meaning": "Decisión que se emite en el juicio en lo principal y en la cual las medidas de impugnación no permiten revisión alguna."
+  },
+  {
+    "word": "Sentencia ejecutoria",
+    "meaning": "Resolución definitiva de los tribunales del Poder Judicial que dicta en amparo que han quedado firmes y han causado estado. Cosa juzgada en el amparo."
+  },
+  {
+    "word": "Sentencia ejecutoriada",
+    "meaning": "Resoluciones definitivas en materia de amparo que han sido cumplidas o ejecutadas."
+  },
+  {
+    "word": "Sentencia interlocutoria",
+    "meaning": "Resolución dictada por la autoridad durante la tramitación del juicio de amparo. Se dicta para resolver un incidente limitado en el juicio de amparo."
+  },
+  {
+    "word": "Sentencia de amparo",
+    "meaning": "Resolución definitiva dictada por la autoridad de amparo, concediendo o negando la protección de la justicia federal solicitada por el quejoso."
+  },
+  {
+    "word": "Sobreseimiento",
+    "meaning": "Acto por medio del cual la autoridad de amparo deja sin efecto el juicio de amparo. Terminación del amparo."
+  },
+  {
+    "word": "Supletoriedad de la queja",
+    "meaning": "Obligación de la autoridad de amparo para suplir la deficiencia de los conceptos de violación de la demanda, o de los agravios formulados en los recursos que la ley establece."
+  },
+  {
+    "word": "Suspensión en instancia de parte",
+    "meaning": "Suspensión temporal del acto reclamado ordenado por la autoridad de amparo a petición o solicitud del quejoso."
+  },
+  {
+    "word": "Suspensión de oficio del acto reclamado",
+    "meaning": "Obligación de la autoridad que conoce del juicio de amparo para suspender de oficio de manera temporal los efectos del acto reclamado."
+  },
+  {
+    "word": "Suspensión definitiva",
+    "meaning": "Concesión definitiva de la suspensión del acto reclamado."
+  },
+  {
+    "word": "Suspensión provisional",
+    "meaning": "Protección provisional concedida al quejoso para privar de efectos al acto reclamado de manera temporal, mientras se falla el amparo en forma definitiva."
+  },
+  {
+    "word": "Tercero perjudicado",
+    "meaning": "Contraparte del agraviado o quejoso en el juicio de amparo."
+  },
+  {
+    "word": "Violación de garantías",
+    "meaning": "Actos realizados por las autoridades que violan la Constitución en materia de garantías individuales."
+  },
+  {
+    "word": "Violación de la suspensión provisional",
+    "meaning": "Quebrantar la orden de la autoridad judicial concedida al quejoso para que cesen provisionalmente los actos reclamados."
+  },
+  {
+    "word": "Violación del amparo",
+    "meaning": "Incumplimiento o no obediencia al amparo concedido."
+  },
+  {
+    "word": "Violación del procedimiento de amparo",
+    "meaning": "Quebrantamiento o la no observancia de las formalidades del proceso de amparo."
+  },
+  {
+    "word": "Acciones",
+    "meaning": "Títulos de crédito representativos, en las llamadas sociedades de capital, de una parte de éste y que confieren a sus tenedores los derechos correspondientes a su calidad de socios."
+  },
+  {
+    "word": "Accionistas",
+    "meaning": "Tenedor de acciones (socio de las sociedades llamadas de capital)."
+  },
+  {
+    "word": "Acreditamiento del impuesto",
+    "meaning": "El contribuyente deberá pagar la diferencia entre el impuesto que pagó por la importación de los bienes o los servicios adquiridos y el impuesto que cobró. Para que el impuesto sea acreditable, se requiere que corresponda a bienes y servicios estrictamente indispensables para la realización de sus actos u operaciones, que conste por separado en los comprobantes y éstos sean a nombre del contribuyente y que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios."
+  },
+  {
+    "word": "Actividades empresariales",
+    "meaning": "En materia fiscal, se consideran empresariales las actividades comerciales, industriales, agrícolas, ganaderas, silvícolas y de pesca."
+  },
+  {
+    "word": "Activos fijos",
+    "meaning": "Suma de cosas, bienes muebles e inmuebles, que forman el patrimonio de una persona física o moral y que no son susceptibles de cambiarse fácilmente y tan solo sufren el deterioro del tiempo (depreciación)."
+  },
+  {
+    "word": "Acumulación de ingresos",
+    "meaning": "Las personas morales residentes en el país acumularán la totalidad de los ingresos en efectivo, bienes, servicio, crédito o de cualquier otro tipo que obtengan en el ejercicio, inclusive los provenientes de sus establecimientos en el extranjero."
+  },
+  {
+    "word": "Adquisiciones",
+    "meaning": "Actos o hechos con los que una persona adquiere el dominio de una cosa, mueble o inmueble, o algún derecho real sobre ella. También significa cosa adquirida. Puede tener efecto a título oneroso o gratuito, a título singular o universal, a título mortis causa o inter vivos."
+  },
+  {
+    "word": "Afianzadora",
+    "meaning": "Sociedad mercantil cuyo objeto es otorgar fianzas a título oneroso, o sea, cobrando por su intervención cuotas o primas."
+  },
+  {
+    "word": "Amortización",
+    "meaning": "Recuperación o compensación del capital invertido en un negocio o empresa. Extinción de una obligación consistente en la entrega de dinero, sea total o parcialmente."
+  },
+  {
+    "word": "Aportaciones de seguridad social",
+    "meaning": "Contribuciones establecidas en la Ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la Ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado."
+  },
+  {
+    "word": "Aprovechamientos",
+    "meaning": "Ingresos que percibe el Estado por funciones de derecho público distintas de los impuestos, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal."
+  },
+  {
+    "word": "Arancel",
+    "meaning": "Tarifa oficial que establece las cantidades a pagar por determinados servicios públicos, por importaciones y exportaciones y otros."
+  },
+  {
+    "word": "Asientos contables",
+    "meaning": "Se refieren a los movimientos comerciales que se anotan en los libros de las empresas, que deberán asentarse en los dos contables requeridos por la autoridad fiscal."
+  },
+  {
+    "word": "Autoridades fiscales",
+    "meaning": "Autoridades que actúan por nombramiento oficial, realizando actividades relativas al fisco."
+  },
+  {
+    "word": "Avalúos",
+    "meaning": "Valorización de bienes muebles e inmuebles."
+  },
+  {
+    "word": "Base fija en el país",
+    "meaning": "Cualquier lugar en el que se presten servicios personales independientes de carácter científico, literario, artístico, educativos o pedagógico, de otros, y las personas que presten dichos servicios sean residentes en el país."
+  },
+  {
+    "word": "Base gravable",
+    "meaning": "Valor del activo neto, los activos fijos, los gastos y costos de ventas, los terrenos e inventarios, disminuyendo el valor promedio anual de las deudas que tenga la empresa."
+  },
+  {
+    "word": "Bienes adquiridos por herencia, legado o donación",
+    "meaning": "En materia fiscal, respecto de estos bienes se considerarán adquiridos el día en que se otorgue la escritura de adjudicación, corresponda el costo que haya sido pagado el autor de la sucesión o el donante y como hecho de adquisición, la que hubiera correspondido a estos últimos. Cuando a su vez, el autor de la sucesión o el donante lo hubieran adquirido a título gratuito, se aplicará la misma regla. Tratándose de la donación por la que se haya pagado el impuesto sobre la renta, se considerará como costo de adquisición o costo promedio por acción según corresponda, el valor de avalúo que haya servido para calcular dicho y como fecha de adquisición aquella en que se pagó el impuesto mencionado."
+  },
+  {
+    "word": "Bolsa de valores",
+    "meaning": "Mercado en donde se enajenan acciones u otros títulos de valor."
+  },
+  {
+    "word": "Bonificación",
+    "meaning": "Devoluciones que se reciben o descuentos que haga la Secretaría de Hacienda y Crédito Público por excedentes de pagos del contribuyente."
+  },
+  {
+    "word": "Cálculo del impuesto",
+    "meaning": "Determinación de la cantidad que corresponde pagar a cada persona de acuerdo con el tipo de actividad que desarrolle y el porcentaje del impuesto con que se grave."
+  },
+  {
+    "word": "Certificados",
+    "meaning": "Documentos que amparan determinados derechos y obligaciones y que reditúan ciertos intereses."
+  },
+  {
+    "word": "Cetes",
+    "meaning": "Certificados de la Tesorería de la Federación, cuya pretensión es que produzcan intereses devengados por préstamos o por adquisición de valores a cargo del Gobierno Federal."
+  },
+  {
+    "word": "Comprobantes fiscales",
+    "meaning": "Documentación que reúne los requisitos que señalan las disposiciones fiscales relativas a la identidad y el domicilio de quien los expida, así como que acredite el bien de que se trata o el servicio recibido o servicio."
+  },
+  {
+    "word": "Constancia de percepciones y deducciones",
+    "meaning": "Constancia en que se desglosan los emolumentos y descuentos por concepto de salarios que recibe cualquier prestador de servicios."
+  },
+  {
+    "word": "Contabilidad",
+    "meaning": "Sistema de registro de las operaciones o actividades de un negocio."
+  },
+  {
+    "word": "Contribuciones",
+    "meaning": "Ingresos que el Estado obtiene de las personas físicas y morales, para poder otorgar servicios públicos a los gobernados. Se clasifican en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos."
+  },
+  {
+    "word": "Contribuciones de mejoras",
+    "meaning": "Contribuciones establecidas en la Ley a cargo de las personas físicas y morales que se beneficien de manera directa de obras públicas."
+  },
+  {
+    "word": "Contribuyente",
+    "meaning": "Persona física o moral que está obligada al pago de impuestos en razón de las actividades que desempeña y por los ingresos que obtiene de los actos que realiza."
+  },
+  {
+    "word": "Contribuyentes mayores",
+    "meaning": "Personas físicas o morales con actividades empresariales que superan los requisitos de los menores, quienes deben cumplir con las obligaciones fiscales que la ley fiscal les impone: llevar la contabilidad, expedir comprobantes por las actividades que realicen y conservar copia, llevar registro específico de las inversiones adquiridas y utilidades, elaborar balances e inventarios, registrar deudas, créditos y efectivo en moneda nacional y extranjera, presentar tanto la declaración anual como la informativa de los montos de las operaciones efectuadas con clientes y proveedores y de las retenciones efectuadas por salarios, honorarios y arrendamientos."
+  },
+  {
+    "word": "Contribuyentes menores",
+    "meaning": "Personas físicas que realizan actividades empresariales al menudeo en puestos fijos o semifijos en la vía pública como vendedores ambulantes y que enajenan productos agrícolas, ganaderos, pesqueros o silvícolas no industrializados, así como los locatarios de mercados públicos que realizan ventas al menudeo."
+  },
+  {
+    "word": "Corredor público",
+    "meaning": "Agente auxiliar del comercio que interviene en las propuestas y los ajustes de actos, contratos y convenios mercantiles. Requiere de autorización expresa para ejercer y tiene la facultad de dar certificación de hechos mercantiles y que puede actuar como perito en asuntos de tráfico mercantil."
+  },
+  {
+    "word": "Crédito",
+    "meaning": "Derecho que autoriza a una persona recibir un bien, un servicio o una cantidad de otra, mediante un pago diferido y bajo entrega de garantía de intereses, gastos financieros y de operación."
+  },
+  {
+    "word": "Declaración de impuestos",
+    "meaning": "Declaración a la Secretaría de Hacienda y Crédito Público de las personas físicas o morales contribuyentes que están obligatoriadas por los ingresos que reciban, sean por servicios o productos al menudeo, por ingresos en actividades empresariales o por ventas realizadas; sobre esta base se determinarán los impuestos a su cargo."
+  },
+  {
+    "word": "Declaración fiscal",
+    "meaning": "Manifestación escrita que un contribuyente debe presentar ante las autoridades fiscales para informarles de la generación de ingresos en salarios y de efectivo, así como los bienes y servicios que tuvo durante su ejercicio fiscal, a fin de determinar el monto de los impuestos a su cargo."
+  },
+  {
+    "word": "Deducible",
+    "meaning": "Gastos o erogaciones que una persona física o moral está autorizada a restar de sus ingresos a la hora de presentar su declaración de impuestos."
+  },
+  {
+    "word": "Derechos",
+    "meaning": "Contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público de la nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público. Contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado."
+  },
+  {
+    "word": "Devolución o compensación de saldos a favor",
+    "meaning": "El contribuyente podrá solicitar la devolución del impuesto pagado en exceso, o compensarlo contra el impuesto a su cargo, en los dos ejercicios siguientes hasta agotarlo."
+  },
+  {
+    "word": "Domicilio fiscal",
+    "meaning": "Lugar donde un contribuyente tiene el asiento principal de sus actividades o la administración principal de su negocio, el lugar que usa para el desempeño de sus actividades y si la persona física que realiza esas actividades no cuenta con un local será su casa habitación."
+  },
+  {
+    "word": "Ejercicio fiscal",
+    "meaning": "Periodo durante el cual un contribuyente obtiene ingresos por el desempeño de su actividad productiva. Al concluir dicho periodo, el contribuyente debe presentar la declaración de impuestos. El ejercicio fiscal coincide con el año de calendario: inicia el 1 de enero y concluye el 31 de diciembre."
+  },
+  {
+    "word": "Fianza",
+    "meaning": "Contrato por el cual una persona se obliga a cumplir determinadas obligaciones impuestas a otra, en el caso de que esta última no cumpla. Documento en el que se constata esa obligación."
+  },
+  {
+    "word": "Giro",
+    "meaning": "En materia fiscal se refiere al tipo de negocio que se tiene."
+  },
+  {
+    "word": "Gravamen",
+    "meaning": "Carga fiscal que se tiene sobre un caudal o una propiedad."
+  },
+  {
+    "word": "Impuesto al activo de las empresas",
+    "meaning": "Las personas que realizan actividades empresariales y las personas morales deben pagar el impuesto a las instituciones al erogar su patrimonio. Están exentas del pago las aseguradoras, las sociedades de crédito, las compañías de seguros y fianzas, las organizaciones auxiliares y cooperativas de ahorro y préstamo, así como los ejidos, las asociaciones cooperativas y las personas físicas que realizan actividades en establecimientos agrícolas, semijornados o al menudeo."
+  },
+  {
+    "word": "Impuesto al valor agregado (IVA)",
+    "meaning": "Grava actividades mercantiles, otorgación de derechos, explotación de bienes y prestación de servicios, enajenación de bienes. El 15% lo goce temporal el sujeto obligado en la importación de bienes o servicios. El impuesto se calcula aplicándolo a los valores antes señalados a tasa de 15%."
+  },
+  {
+    "word": "Impuestos",
+    "meaning": "Contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas de las aportaciones de seguridad social, contribuciones y derechos."
+  },
+  {
+    "word": "Ley del impuesto sobre la renta (ISR)",
+    "meaning": "Grava los ingresos obtenidos por las personas físicas y por las personas morales. Este también grava los ingresos por enajenación o adquisición de bienes."
+  },
+  {
+    "word": "Miscelánea fiscal",
+    "meaning": "Conjunto de disposiciones que establecen, reforman, adicionan o derogan diversas leyes y reglamentos relacionados con el pago de impuestos."
+  },
+  {
+    "word": "Pagos provisionales",
+    "meaning": "Pagos que el contribuyente debe efectuar en forma trimestral o mensual, según sea el caso, mediante una declaración ante las oficinas autorizadas. El pago será la diferencia entre el impuesto que corresponda a todas las actividades realizadas en el periodo por el que se efectúa el pago y las cantidades por las que proceda el acreditamiento."
+  },
+  {
+    "word": "Personas físicas",
+    "meaning": "En materia fiscal, es cualquier persona que perciba algún ingreso por la prestación de un servicio personal subordinado. Entre estos ingresos se encuentran salarios, remuneraciones y demás prestaciones que deriven de una relación laboral, como la participación de los trabajadores en la utilidad de las empresas y los ingresos cobros que obtengan honorarios, estos ingresos causan impuestos."
+  },
+  {
+    "word": "Personas morales",
+    "meaning": "En materia fiscal, es cualquier sociedad que perciba algún beneficio o utilidad por su trabajo o servicios."
+  },
+  {
+    "word": "Regalías",
+    "meaning": "Pagos de cualquier clase por el uso o goce temporal de patentes, certificados de invención o mejora, marca de fábrica, nombres comerciales, derechos de autor sobre obras literarias, artísticas o científicas (incluidas las películas cinematográficas y grabaciones para radio y televisión, así como de dibujos o modelos, planos, fórmulas o procedimientos y equipos industriales, comerciales o científicos), así como las obtenciones pagadas por transferencia de tecnología o información relativas a experiencias industriales, comerciales o científicas, u otro derecho o propiedad similar."
+  },
+  {
+    "word": "Registro Federal de Contribuyentes",
+    "meaning": "Padrón a cargo de la Secretaría de Hacienda y Crédito Público que consigna la información referente al identidad, domicilio y situación jurídica de las personas físicas y morales obligadas al pago periódico de impuestos por las actividades que realizan. Por lo general se llama así a la cédula de identificación que se le asigna a un contribuyente al inscribirse a dicho padrón"
+  },
+  {
+    "word": "Utilidad fiscal",
+    "meaning": "Cantidad que resulta de restar a la totalidad de los ingresos, que obtuvo un contribuyente durante un ejercicio fiscal, los gastos deducibles que la ley le autoriza."
+  },
+  {
+    "word": "Visita domiciliaria",
+    "meaning": "Facultad de la autoridad fiscal para revisar los registros contables de un contribuyente a efecto de conocer o verificar su situación fiscal."
+  },
+
+
+  {
     "word": "Esponsales",
     "meaning": "Promesa de matrimonio hecha por escrito y aceptada."
   },
