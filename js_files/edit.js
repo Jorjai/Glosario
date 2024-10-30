@@ -1,6 +1,6 @@
 "use strict";
 // Backend URL
-const backendUrl = 'http://localhost:3000';
+const backendUrl = 'https://glosario-uduz.onrender.com';
 
 // Function to load words from the backend
 async function loadWords() {
