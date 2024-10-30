@@ -1,18 +1,106 @@
 [
   {
-    "word": "fufdsafsda",
-    "meaning": "fuffdsfsad"
+    "word": "Esponsales",
+    "meaning": "Promesa de matrimonio hecha por escrito y aceptada."
   },
   {
-    "word": "fsfds",
-    "meaning": "safdsa"
+    "word": "Estado civil",
+    "meaning": "Situación jurídica que guarda una persona en relación con la familia."
   },
   {
-    "word": "fsa",
-    "meaning": "dsadsa"
+    "word": "Exhorto",
+    "meaning": "Requerimiento por escrito de un juez a otro de su misma categoría y de igual o distinta jurisdicción para que practique determinada diligencia."
   },
   {
-    "word": "fsadsa",
-    "meaning": "dsadsadsa"
+    "word": "Habitación",
+    "meaning": "Consiste en la ocupación gratuita, en una casa ajena, de las piezas necesarias para una persona y su familia."
+  },
+  {
+    "word": "Herencia",
+    "meaning": "Sucesión de todos los bienes del difunto y de todos sus derechos y obligaciones que no se extinguen por la muerte."
+  },
+  {
+    "word": "Incapaces",
+    "meaning": "Personas sin capacidad para ejercer por sí mismas sus derechos y obligaciones. Se considera como incapaces a los menores de edad, a los mayores de edad disminuidos o perturbados en su inteligencia, y aquellos que padecen alguna afección física, psicológica, sensorial o por la adicción a sustancias tóxicas."
+  },
+  {
+    "word": "Lesión",
+    "meaning": "Explotar la suma ignorancia, notoria inexperiencia o extrema miseria de otro para obtener un lucro excesivo."
+  },
+  {
+    "word": "Mala fe",
+    "meaning": "Dismulación del error de uno de los contratantes, una vez conocido."
+  },
+  {
+    "word": "Novación",
+    "meaning": "Cuando las partes en un contrato lo alteran sustancialmente y sustituyen una obligación por otra."
+  },
+  {
+    "word": "Nulidad",
+    "meaning": "Existencia imperfecta del acto jurídico por carecer de alguno de los requisitos de validez y que hace el acto nulo o anulable."
+  },
+  {
+    "word": "Obligación",
+    "meaning": "Relación jurídica entre dos o más personas, en virtud de la cual una de ellas, el deudor, está precisado a satisfacer una prestación de carácter patrimonial en favor de la otra."
+  },
+  {
+    "word": "Obligación conjuntiva",
+    "meaning": "Obligación donde el deudor se compromete a entregar todas las cosas o cumplir con todos los hechos de las prestaciones objeto de la obligación."
+  },
+  {
+    "word": "Obligación facultativa",
+    "meaning": "Obligación con objeto determinado, donde el deudor acuerda con el acreedor que se reserva la facultad de entregar un objeto distinto al momento de hacer el pago."
+  },
+  {
+    "word": "Obligación mancomunada",
+    "meaning": "Obligación donde hay pluralidad de deudores, pluralidad de acreedores o de ambos, respecto de una misma obligación y cada uno de ellos responde por la parte de la obligación a la que se haya comprometido."
+  },
+  {
+    "word": "Obligación solidaria",
+    "meaning": "Obligación con pluralidad de deudores, pluralidad de acreedores o de ambos, donde cada uno de ellos responde por la totalidad del objeto."
+  },
+  {
+    "word": "Obligaciones alternativas",
+    "meaning": "Obligaciones en que el deudor se libera de la obligación con la entrega de cualquiera de los objetos o con la prestación del hecho."
+  },
+  {
+    "word": "Ocupación",
+    "meaning": "Apresión o toma material de una cosa que no tiene dueño o aunque lo tenga se ignora, con la intención de convertirse en propietario de ella."
+  },
+  {
+    "word": "Pago o cumplimiento",
+    "meaning": "Entrega de la cosa, la cantidad debida o la prestación del servicio que se hubiere prometido."
+  },
+  {
+    "word": "Parentesco",
+    "meaning": "Nexo jurídico entre los descendientes de un progenitor común, entre un cónyuge y los parientes del otro cónyuge o entre el adoptante y el adoptado."
+  },
+  {
+    "word": "Parentesco civil",
+    "meaning": "Lazo que nace de la adopción simple y sólo existe entre el adoptante y el adoptado."
+  },
+  {
+    "word": "Parentesco por afinidad",
+    "meaning": "Lazo que se adquiere por el matrimonio entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón."
+  },
+  {
+    "word": "Parentesco por consanguinidad",
+    "meaning": "Lazo sanguíneo entre personas que descienden de un mismo progenitor."
+  },
+  {
+    "word": "Patria potestad",
+    "meaning": "Autoridad que se ejerce sobre la persona y los bienes de los hijos."
+  },
+  {
+    "word": "Patrimonio",
+    "meaning": "Conjunto de bienes, derechos y obligaciones apreciables en dinero."
+  },
+  {
+    "word": "Posesión",
+    "meaning": "Ejercer poder de hecho sobre una cosa o el que goza de un derecho."
+  },
+  {
+    "word": "Prescripción",
+    "meaning": "Medio de adquirir bienes u obtener la liberación de obligaciones, con el transcurso del tiempo y de acuerdo con las condiciones establecidas por la ley."
   }
 ]
